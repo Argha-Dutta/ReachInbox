@@ -5,10 +5,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {/* <h1>Hello world .....</h1> */}
+      {/* <h1>test .....</h1> */}
       <AllRoutes/>
     </div>
   );
 }
 
-export default App;
+// export default App;

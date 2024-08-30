@@ -4,7 +4,7 @@ import React from 'react'
 const Workspace = () => {
   return (
     <div className='flex justify-center items-center gap-2'>
-        <p className='text-[12px]'>Tim's Workspace </p>
+        <p className='text-[12px]'>test Workspace </p>
         <span> <ChevronDown /></span>
     </div>
   )
